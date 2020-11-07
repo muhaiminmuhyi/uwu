@@ -23,7 +23,7 @@ body, html {height: 100%}
     V
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">ENTER NAME</h1>
+    <h1 class="w3-animate-top">ENTER NAME</h1>
     <hr class="w3-border-grey" style="margin:auto;width:50%">
     <form method="post" action="act/p_uwu?action=uwu">
     <input type="text" id="username" name="name" placeholder="Enter Your Name.." autocomplete="off" required />
