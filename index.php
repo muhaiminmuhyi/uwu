@@ -23,7 +23,7 @@ body, html {height: 100%}
     V
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-animate-top">WELCOME DUDE</h1>
+    <h1 class="w3-animate-top">WELCOME</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
     <p class="w3-large w3-center">Click Next to page</p>
     <br>
