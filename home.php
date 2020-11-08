@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="style.css">
 <style>
-body,h1,a {font-family: "Raleway", sans-serif}
+body,h1,a,h2,h3,h4 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
   background-image: url('/w3images/forestbridge.jpg');
@@ -23,7 +23,7 @@ body, html {height: 100%}
     V
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-animate-top">ENTER NAME</h1>
+    <center><h2 class="w3-animate-top">ENTER NAME</h2></center>
     <hr class="w3-border-grey" style="margin:auto;width:50%">
     <form method="post" action="act/p_uwu?action=uwu">
     <input type="text" id="username" name="name" placeholder="Enter Your Name.." autocomplete="off" required />

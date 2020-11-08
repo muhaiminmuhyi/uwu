@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="style.css">
 <style>
-body,h1,a {font-family: "Raleway", sans-serif}
+body,h1,a,h2,h3,h4 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
   background-image: url('/w3images/forestbridge.jpg');
