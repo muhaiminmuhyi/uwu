@@ -33,7 +33,7 @@ body, html {height: 100%}
   </form>
 </div>
   <div class="w3-display-bottomleft w3-padding-large">
-    Powered by <a href="https://vnix.my.id" target="_blank">vnix</a>
+    Powered by <a href="https://vnix.my.id" target="_blank">muhyi</a>
   </div>
 </div>
 
