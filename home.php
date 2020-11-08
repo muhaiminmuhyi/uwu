@@ -26,7 +26,7 @@ body, html {height: 100%}
     <h1 class="w3-animate-top">ENTER NAME</h1>
     <hr class="w3-border-grey" style="margin:auto;width:50%">
     <form method="post" action="act/p_uwu?action=uwu">
-    <input type="text" id="username" name="name" placeholder="Type in your username.." autocomplete="off" required />
+    <input type="text" id="username" name="name" placeholder="Enter Your Name.." autocomplete="off" required />
     <center><button type="submit" name="btn" class="myButton">NEXT</button></center>
     <br>
     <center><a href="index" class="myButton">BACK</a></center>
