@@ -1,3 +1,9 @@
+<?php
+session_start();
+if (!isset($_SESSION['name'])) {
+    header('location:home');
+}
+?>
 <!DOCTYPE html>
 <html>
 <title>UwU</title>
@@ -6,6 +12,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="select.css">
 <style>
 body,h1,a,h2,h3,h4 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
@@ -23,16 +30,16 @@ body, html {height: 100%}
     V
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-animate-top">WELCOME</h1>
+    <center><h1 class="w3-animate-top">SELECT LANGUAGE</h1></center>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">Selamat Datang</p>
-    <br>
-    <center><a href="home" class="myButton">NEXT</a></center>
+    <p class="w3-large w3-center">Pilih Bahasa</p>
+    
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
     Powered by <a href="https://vnix.my.id" target="_blank">muhyi</a>
   </div>
 </div>
+
 
 </body>
 </html>
