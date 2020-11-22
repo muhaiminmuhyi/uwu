@@ -41,7 +41,7 @@ body, html {height: 100%}
   <div class="w3-display-middle">
     <center><h1 class="w3-animate-top">Hai,<?php echo $_SESSION['name']; ?> Aku mau ngucapin kamu sesuatu</h1></center>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">Hai <?php echo $_SESSION['name']; ?>Kamu tau ga , kalo kamu itu wanita yang cantik yang aku kenal selama ini , jangan pernah berifikir kamu itu jelek yaa ... , berhenti buat insecure okay , bye bye <?php echo $_SESSION['name']; ?></p>
+    <p class="w3-large w3-center">Hai <?php echo $_SESSION['name']; ?>Kamu udah makan ? , Kalo kamu belum makan mending makan dulu gih nanti kalau kamu sakit aku sedih , jangan lupa makan yaa :)) , jaga kesehatannya jugaaa yaaaa , bye bye <?php echo $_SESSION['name']; ?></p>
     <br>
     <center><a href="hilang.php" class="myButton">BACK</a></center>
   </div>
